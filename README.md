@@ -2,7 +2,7 @@
 # GHHC-Baby-Shell
 
 <br>
-⚠<b><u>Disclaimer:</u></b> <b><a href="https://ghhcommunity.github.io/GHHC-Baby-Shell/GHHC-Baby_Shell.php">GHHC-Baby-Shell</a></b> WebShell Developed by <b>xRoot00</b>
+<b><a href="https://ghhcommunity.github.io/GHHC-Baby-Shell/GHHC-Baby_Shell.php">GHHC-Baby-Shell</a></b> WebShell Was Developed by <b>xRoot00</b>
 <br>
 <br>
 <h4><b><u>💎Download Baby-Shell💎</u></b></h4>
